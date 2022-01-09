@@ -108,8 +108,8 @@ fieldset {
 
 /*media queries*/
 
-@media screen and (max-width: 600px) {
-  .body {
+@media (max-width: 600px) {
+  body {
     font-size: 10rem;
   }
 }

@@ -108,7 +108,7 @@ fieldset {
 
 /*media queries*/
 
-@media and screen (max-width: 600px) {
+@media screen and (max-width: 600px) {
  font-size: 4rem;
   }
     

@@ -2,7 +2,6 @@ body {
   font-family: "Source Sans 3", sans-serif;
   background-color: #1f2933;
   color: #f1c232;
-  font-size: 1vw;
 }
 
 footer {
@@ -109,6 +108,10 @@ fieldset {
 
 /*media queries*/
 
+@media (max-width: 600px) {
+ font-size: 2vw;
+  }
+    
 @media (min-width: 1024px) {
   .container {
     width: 90%;

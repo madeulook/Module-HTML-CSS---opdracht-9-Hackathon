@@ -109,7 +109,7 @@ fieldset {
 /*media queries*/
 
 @media screen and (max-width: 600px) {
- font-size: 4rem;
+ font-size: 10rem;
   }
     
 @media (min-width: 1024px) {

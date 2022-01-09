@@ -109,8 +109,10 @@ fieldset {
 /*media queries*/
 
 @media screen and (max-width: 600px) {
- font-size: 10rem;
+  body {
+    font-size: 10rem;
   }
+}
     
 @media (min-width: 1024px) {
   .container {
